@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba, Ben Oğuzhan! 👋</h1>
 
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
----
 
 ## 👨‍💻 Hakkımda
 
@@ -50,21 +49,6 @@ Yozgat Bozok Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil/W
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhan1414&layout=compact&theme=tokyonight&hide_border=true&border_radius=0" width="48%" alt="Top Languages" />
 </div>
 
----
-
-## 🌐 Beni Bulun
-
 <p align="center">
-  <a href="SENIN_LINKEDIN_ADRESIN">
-    <img src="https://www.linkedin.com/in/oguzhan-sekerci-1a38a0245/.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="SENIN_TWITTER_ADRESIN">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" alt="X" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>Yozgat, Türkiye 🇹🇷</em>
+  <em>Bolu, Türkiye 🇹🇷</em>
 </p>
