@@ -2,6 +2,7 @@
 
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
 ---
+
 ## 👨‍💻 Hakkımda
 
 Yozgat Bozok Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil/Web uygulama geliştirme ve yapay zeka teknolojilerini harmanlayarak yenilikçi projeler üretmeye odaklanıyorum. Özellikle bilgisayarlı görü (computer vision) ve modern Android mimarileri üzerinde çalışmaktan keyif alıyorum.
