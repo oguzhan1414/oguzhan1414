@@ -1,22 +1,15 @@
 <h1 align="center">Merhaba, Ben Oğuzhan! 👋</h1>
 
-<h3 align="center">Bilgisayar ve Yapay Zeka Mühendisliği Öğrencisi | AI & Android Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oguzhan1414&label=Profil+Görüntülenme&color=0e75b6&style=flat-square" alt="Profil Görüntülenme" />
-</p>
-
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
 ---
-
 ## 👨‍💻 Hakkımda
 
-Yozgat Bozok Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil uygulama geliştirme ve yapay zeka teknolojilerini harmanlayarak yenilikçi projeler üretmeye odaklanıyorum. Özellikle bilgisayarlı görü (computer vision) ve modern Android mimarileri üzerinde çalışmaktan keyif alıyorum.
+Yozgat Bozok Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil/Web uygulama geliştirme ve yapay zeka teknolojilerini harmanlayarak yenilikçi projeler üretmeye odaklanıyorum. Özellikle bilgisayarlı görü (computer vision) ve modern Android mimarileri üzerinde çalışmaktan keyif alıyorum.
 
-- 🔭 Şu anda **DeepFake Tespit Sistemi** (Bitirme Projesi) ve yapay zeka destekli mobil uygulamalar (**SnapChef**, **SpeakMatch**) üzerinde çalışıyorum.
-- 🌱 Eşzamanlı olarak **Android (Kotlin)** ve **Yapay Zeka (Python)** becerilerimi geliştiriyorum.
-- ⚡ **İlgi alanlarım:** Siber Güvenlik, IoT (Arduino) ve Full Stack Web Geliştirme.
-- 📫 Bana ulaşmak için: **[E-posta adresiniz]**
-
+- 🔭 Şu anda **DeepFake Tespit Sistemi** (Bitirme Projesi), yapay zeka destekli uygulamalar (**SnapChef**, **SpeakMatch**) ve full-stack web projeleri (**CepTakvim**, **E-Ticaret Sistemleri**) üzerinde çalışıyorum.
+- 🌱 Eşzamanlı olarak **Android (Kotlin)**, **Yapay Zeka (Python)** ve **Modern Web Teknolojileri (React, Node.js, )** odaklı becerilerimi geliştiriyorum.
+- ⚡ **İlgi alanlarım:** Full Stack Web Geliştirme, Yapay Zeka 
+- 📫 Bana ulaşmak için: **oguzhansekerci14@gmail.com**
 ---
 
 ## 🛠️ Yetenekler & Teknolojiler
@@ -45,12 +38,10 @@ Yozgat Bozok Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil u
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 
-**🔌 Donanım & Diğer Araçlar:**
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
+**🔌 Diğer Araçlar:**
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 ---
-
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
@@ -64,7 +55,7 @@ Yozgat Bozok Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil u
 
 <p align="center">
   <a href="SENIN_LINKEDIN_ADRESIN">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/oguzhan-sekerci-1a38a0245/.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="SENIN_TWITTER_ADRESIN">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" alt="X" />
