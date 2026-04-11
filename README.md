@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Hakkımda
 
-Yozgat Bozok Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Mobil/Web uygulama geliştirme ve yapay zeka teknolojilerini harmanlayarak yenilikçi projeler üretmeye odaklanıyorum. Özellikle bilgisayarlı görü (computer vision) ve modern Android mimarileri üzerinde çalışmaktan keyif alıyorum.
+ilgisayar Mühendisliği öğrencisiyim. Mobil/Web uygulama geliştirme ve yapay zeka teknolojilerini harmanlayarak yenilikçi projeler üretmeye odaklanıyorum. Özellikle bilgisayarlı görü (computer vision) ve modern Android mimarileri üzerinde çalışmaktan keyif alıyorum.
 
 - 🔭 Şu anda **DeepFake Tespit Sistemi** (Bitirme Projesi), yapay zeka destekli uygulamalar (**SnapChef**, **SpeakMatch**) ve full-stack web projeleri (**CepTakvim**, **E-Ticaret Sistemleri**) üzerinde çalışıyorum.
 - 🌱 Eşzamanlı olarak **Android (Kotlin)**, **Yapay Zeka (Python)** ve **Modern Web Teknolojileri (React, Node.js, )** odaklı becerilerimi geliştiriyorum.
